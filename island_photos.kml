@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>island_photos.kml</name>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<BalloonStyle>
+		</BalloonStyle>
+		<ListStyle>
+		</ListStyle>
+	</Style>
+	<Folder>
+		<name>My Places</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>check</listItemType>
+				<ItemIcon>
+					<state>open</state>
+					<href>:/mysavedplaces_open.png</href>
+				</ItemIcon>
+				<ItemIcon>
+					<state>closed</state>
+					<href>:/mysavedplaces_closed.png</href>
+				</ItemIcon>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Alum Bay 1</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/AlumBay1.jpg">]]></description>
+			<LookAt>
+				<longitude>-2.000000523650776</longitude>
+				<latitude>53.9999956524272</latitude>
+				<altitude>0</altitude>
+				<heading>-4.236422649497703e-07</heading>
+				<tilt>0</tilt>
+				<range>11010840.41676546</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.56085527,50.6703,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alum Bay 2</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/AlumBay2.jpg">]]></description>
+			<LookAt>
+				<longitude>-2.000000523650776</longitude>
+				<latitude>53.9999956524272</latitude>
+				<altitude>0</altitude>
+				<heading>-4.236422649497703e-07</heading>
+				<tilt>0</tilt>
+				<range>11010840.41676546</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.56105387,50.67023799999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alum Bay 3</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/AlumBay3.jpg">]]></description>
+			<LookAt>
+				<longitude>-1.560855227975806</longitude>
+				<latitude>50.6703002780007</latitude>
+				<altitude>0</altitude>
+				<heading>2.519605600955258e-10</heading>
+				<tilt>45.00000000003168</tilt>
+				<range>1000.000003074454</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.560855227975806,50.66957,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Alum Bay 4</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/AlumBay4.jpg">]]></description>
+			<LookAt>
+				<longitude>-1.560855227523368</longitude>
+				<latitude>50.67030027873293</latitude>
+				<altitude>0</altitude>
+				<heading>8.886901142737738e-10</heading>
+				<tilt>45.00000000076388</tilt>
+				<range>1000.00004960779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.560092,50.66872,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Needles</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/IOWNeedles1.jpg">]]></description>
+			<LookAt>
+				<longitude>-1.560855227523368</longitude>
+				<latitude>50.67030027873293</latitude>
+				<altitude>0</altitude>
+				<heading>8.886901142737738e-10</heading>
+				<tilt>45.00000000076388</tilt>
+				<range>1000.00004960779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.54980242,50.67039500000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Catherines 1</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/StCatherinesErosion1.jpg">]]></description>
+			<LookAt>
+				<longitude>-1.554379031369889</longitude>
+				<latitude>50.67143347807357</latitude>
+				<altitude>0</altitude>
+				<heading>0.004574036109499637</heading>
+				<tilt>38.10374294486726</tilt>
+				<range>1745.913461385052</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.286396,50.57328,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Catherines 2</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/StCatherinesErosion2.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535959653176778</longitude>
+				<latitude>50.61042191968313</latitude>
+				<altitude>43723.33649577186</altitude>
+				<heading>-24.66368603557436</heading>
+				<tilt>0.08990188713133698</tilt>
+				<roll>-24.74582799517739</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.286942,50.57360000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Catherines 3</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/StCatherinesSolifluction1.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535275477989924</longitude>
+				<latitude>50.6104211859888</latitude>
+				<altitude>43723.33336117049</altitude>
+				<heading>-24.66316135135591</heading>
+				<tilt>0.08990187723139731</tilt>
+				<roll>-24.74583161433651</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.287533,50.57372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>St Catherines 4</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/StCatherinesSolifluction2.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535275477989924</longitude>
+				<latitude>50.6104211859888</latitude>
+				<altitude>43723.33336117049</altitude>
+				<heading>-24.66316135135591</heading>
+				<tilt>0.08990187723139731</tilt>
+				<roll>-24.74583161433651</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.287804,50.57354,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventnor 1</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/VentnorErosion1.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535275477989924</longitude>
+				<latitude>50.6104211859888</latitude>
+				<altitude>43723.33336117049</altitude>
+				<heading>-24.66316135135591</heading>
+				<tilt>0.08990187723139731</tilt>
+				<roll>-24.74583161433651</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.216185,50.58838999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventnor 2</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/VentnorErosion2.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535275477989924</longitude>
+				<latitude>50.6104211859888</latitude>
+				<altitude>43723.33336117049</altitude>
+				<heading>-24.66316135135591</heading>
+				<tilt>0.08990187723139731</tilt>
+				<roll>-24.74583161433651</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.221118,50.58738000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Ventnor 3</name>
+			<description><![CDATA[<img src="https://raw.githubusercontent.com/M4rk0st0j/IOW_KML/main/VentnorErosion3.jpg">]]></description>
+			<Camera>
+				<longitude>-1.535275477989904</longitude>
+				<latitude>50.6104211859888</latitude>
+				<altitude>43723.33336116908</altitude>
+				<heading>-24.6631613502657</heading>
+				<tilt>0.08990187723139731</tilt>
+				<roll>-24.7458316132469</roll>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</Camera>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.223683,50.58688999999999,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
